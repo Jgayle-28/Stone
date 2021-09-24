@@ -1,6 +1,6 @@
 # Stone Theme
 
-## This is the README for your extension "Stone"
+<!-- ## This is the README for your extension "Stone" -->
 
 A cool blue theme with hints of teal & gray
 
