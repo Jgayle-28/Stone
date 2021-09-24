@@ -1,16 +1,13 @@
 # Stone Theme
 
-<!-- ## This is the README for your extension "Stone" -->
+### About
 
-A cool blue theme with hints of teal & gray
+Stone is a cool blue theme with hints of teal & gray that is easy on the eyes and pleasing aesthetically
 
-<!-- - Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Stone Theme](./screenshots/ss1.png)
+![Stone Theme](./screenshots/ss3.png)
+![Stone Theme](./screenshots/ss2.png)
 
-### For more information
+### Issues
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!** -->
+This theme is NOT perfect and is still being developed. If you come across any issues, have any suggestions, OR would like to contribute feel free to open an issue <a href="https://github.com/Jgayle-28/Stone/issues" target="_blank">Here</a> or submit a PR =]
