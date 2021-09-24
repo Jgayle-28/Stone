@@ -46,8 +46,8 @@
     "editorIndentGuide.activeBackground": "#374151",
     "editorIndentGuide.background": "#37415170",
     "editorInfo.foreground": "#05668d70",
-    "editorLineNumber.activeForeground": "#05668d",
-    "editorLineNumber.foreground": "#000000c0",
+    "editorLineNumber.activeForeground": "#51B5DD",
+    "editorLineNumber.foreground": "#05668d",
     "editorLink.activeForeground": "#05668d",
     "editorMarkerNavigation.background": "#05668d05",
     "editorOverviewRuler.border": "#111827",
@@ -84,14 +84,14 @@
     "inputValidation.infoBorder": "#05668d50",
     "inputValidation.warningBorder": "#EC407A50",
     "list.activeSelectionBackground": "#111827",
-    "list.activeSelectionForeground": "#000000",
+    "list.activeSelectionForeground": "#427AA1",
     "list.focusBackground": "#1F2937",
     "list.focusForeground": "#05668d",
-    "list.highlightForeground": "#000000",
+    "list.highlightForeground": "#51B5DD",
     "list.hoverBackground": "#374151",
     "list.hoverForeground": "#A3D8F9",
     "list.inactiveSelectionBackground": "#11182730",
-    "list.inactiveSelectionForeground": "#000000",
+    "list.inactiveSelectionForeground": "#05668d",
     "list.warningForeground": "#EC407A",
     "listFilterWidget.background": "#11182730",
     "listFilterWidget.noMatchesOutline": "#11182730",
@@ -134,8 +134,8 @@
     "progressBar.background": "#000000",
     "scrollbar.shadow": "#11182700",
     "scrollbarSlider.activeBackground": "#000000cc",
-    "scrollbarSlider.background": "#000000bb",
-    "scrollbarSlider.hoverBackground": "#000000ee",
+    "scrollbarSlider.background": "#05668d60",
+    "scrollbarSlider.hoverBackground": "#1F75AA10",
     "selection.background": "#000000",
     "settings.checkboxBackground": "#111827",
     "settings.checkboxForeground": "#05668d",
@@ -163,15 +163,15 @@
     "statusBarItem.hoverBackground": "#00000020",
     "statusBarItem.remoteBackground": "#000000",
     "statusBarItem.remoteForeground": "#111827",
-    "tab.activeBackground": "#00000050",
-    "tab.activeBorder": "#000000",
-    "tab.activeForeground": "#A3D8F9",
-    "tab.activeModifiedBorder": "#000000",
+    "tab.activeBackground": "#00000020",
+    "tab.activeBorder": "#1F75AA",
+    "tab.activeForeground": "#1F75AA",
+    "tab.activeModifiedBorder": "#1F75AA",
     "tab.border": "#111827",
     "tab.inactiveBackground": "#00000020",
     "tab.inactiveForeground": "#05668daf",
-    "tab.unfocusedActiveBorder": "#000000",
-    "tab.unfocusedActiveBackground": "#00000040",
+    "tab.unfocusedActiveBorder": "#1F75AA",
+    "tab.unfocusedActiveBackground": "#1F75AA40",
     "tab.unfocusedActiveForeground": "#05668d",
     "tab.unfocusedInactiveBackground": "#00000010",
     "tab.unfocusedInactiveForeground": "#05668d7f",
@@ -282,6 +282,12 @@
       }
     },
     {
+      "scope": ["keyword.control"],
+      "settings": {
+        "foreground": "#0097a7"
+      }
+    },
+    {
       "scope": [
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
@@ -346,7 +352,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#35AAB5"
+        "foreground": "#35B1F5"
       }
     },
     {
@@ -373,10 +379,24 @@
         "variable.other.property.js"
       ],
       "settings": {
-        "foreground": "#00838f",
+        "foreground": "#278BCD",
         "fontStyle": ""
       }
     },
+    // Variable
+    // {
+    //   "scope": [
+    //     "variable.other.object.js",
+    //     "storage.type.js",
+    //     "string.other.link.title.markdown",
+    //     "variable.other.readwrite.js",
+    //     "variable.other.property.js"
+    //   ],
+    //   "settings": {
+    //     "foreground": "#00838f",
+    //     "fontStyle": ""
+    //   }
+    // },
     {
       "scope": ["storage.type.js"],
       "settings": {
@@ -494,13 +514,13 @@
         "entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#A73F6F"
+        "foreground": "#2FA3EF"
       }
     },
     {
       "scope": ["entity.name", "support.type", "support.class"],
       "settings": {
-        "foreground": "#35AAB5"
+        "foreground": "#35B1F5"
       }
     },
     {
@@ -546,7 +566,7 @@
     {
       "scope": ["entity.other.attribute-name", "support.function"],
       "settings": {
-        "foreground": "#AD4171"
+        "foreground": "#1F75AA"
       }
     },
     {
@@ -576,7 +596,7 @@
     {
       "scope": ["string.quoted.single.js"],
       "settings": {
-        "foreground": "#00bcd4"
+        "foreground": "#427aa1"
       }
     },
     {
