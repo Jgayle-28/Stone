@@ -1,21 +1,38 @@
 {
-    "name": "Stone",
-    "displayName": "Stone",
-    "description": "Dark theme with blue",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Stone",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Stone-color-theme.json"
-            }
-        ]
-    }
+  "name": "Stone",
+  "displayName": "Stone",
+  "description": "Stone is a cool blue theme with hints of teal & gray that is easy on the eyes and pleasing aesthetically",
+  "version": "0.0.1",
+  "publisher": "JerehmeGayle",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jgayle-28/Stone"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark theme",
+    "Jerehme Gayle",
+    "Stone",
+    "Stone Theme",
+    "Blue",
+    "Teal",
+    "Gray",
+    "Grey"
+  ],
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stone-color-theme.json"
+      }
+    ]
+  }
 }
