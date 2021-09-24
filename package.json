@@ -1,0 +1,21 @@
+{
+    "name": "Stone",
+    "displayName": "Stone",
+    "description": "Dark theme with blue",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stone",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Stone-color-theme.json"
+            }
+        ]
+    }
+}
