@@ -2,12 +2,13 @@
   "name": "Stone",
   "displayName": "Stone",
   "description": "Stone is a cool blue theme with hints of teal & gray that is easy on the eyes and pleasing aesthetically",
-  "version": "0.0.1",
+  "version": "0.0.01",
   "publisher": "JerehmeGayle",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jgayle-28/Stone"
   },
+  "icon": "screenshots/stone-logo.png",
   "keywords": [
     "theme",
     "dark theme",
