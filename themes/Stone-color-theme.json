@@ -574,6 +574,7 @@
         "foreground": "#05668d"
       }
     },
+    // CSS -> SCSS
     {
       "scope": [
         "source.css support.type.property-name",
@@ -584,7 +585,23 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#173A5E"
+        "foreground": "#427AA1"
+      }
+    },
+    {
+      "scope": [
+        "meta.property-name.css",
+        "meta.property-list.css",
+        "source.css"
+      ],
+      "settings": {
+        "foreground": "#115E83"
+      }
+    },
+    {
+      "scope": ["entity.name.tag.css"],
+      "settings": {
+        "foreground": "#0783B5"
       }
     },
     {
@@ -619,7 +636,6 @@
         "entity.other.attribute-name.id",
         "entity.other.attribute-name.class",
         "entity.other.attribute-name.pseudo-class",
-        "entity.name.tag.css",
         "keyword.control.conditional.js",
         "support.constant",
         "entity.other.attribute-name.html",
@@ -647,7 +663,7 @@
     {
       "scope": ["source.scss keyword.control"],
       "settings": {
-        "foreground": "#EC407A"
+        "foreground": "#05668d"
       }
     },
     {
