@@ -1,3 +1,6 @@
+<br/>
+<br/>
+
 <p align="center">
   <a href="https://nextjs.org">
     <img src="./screenshots/stone-logo.png" height="128">
@@ -19,6 +22,9 @@ Stone is a cool blue theme with hints of teal & gray that is easy on the eyes an
 <br/>
 <br/>
 ![Stone Theme](./screenshots/ss3.png)
+<br/>
+<br/>
+![Stone Theme](./screenshots/ss4.png)
 <br/>
 <br/>
 
