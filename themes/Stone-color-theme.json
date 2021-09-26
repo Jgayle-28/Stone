@@ -153,7 +153,7 @@
     "sideBar.foreground": "#05668d",
     "sideBarSectionHeader.background": "#111827",
     "sideBarSectionHeader.border": "#11182760",
-    "sideBarSectionHeader.foreground": "#05668d",
+    "sideBarSectionHeader.foreground": "#05668d",C
     "sideBarTitle.foreground": "#05668d",
     "statusBar.background": "#111827",
     "statusBar.border": "#05668d30",
@@ -335,7 +335,16 @@
         "punctuation.definition.comment.scss",
         "punctuation.definition.comment.js",
         "punctuation.definition.comment.html",
-        "comment.block.html"
+        "comment.block.html",
+        "comment.line.double-slash.ts",
+        "meta.arrow.ts",
+        "meta.block.ts",
+        "meta.var.expr.ts",
+        "source.ts",
+        "punctuation.definition.comment.json.comments",
+        "comment.line.double-slash.js",
+        "source.json.comments",
+        "punctuation.definition",
       ],
       "settings": {
         "foreground": "#013a63"
@@ -529,7 +538,7 @@
     {
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#95B7CE"
+        "foreground": "#013a63"
       }
     },
     {
