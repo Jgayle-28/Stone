@@ -445,7 +445,6 @@
       "scope": [
         "string",
         "string.quoted.double.html",
-        "variable.other.constant.js",
         "variable.other.object.property.js",
         "string.quoted.double.json",
         "markup.fenced_code.block.markdown",
@@ -481,7 +480,7 @@
     {
       "scope": ["variable.other.constant.js"],
       "settings": {
-        "foreground": "#5390d9"
+        "foreground": "#457B9D"
       }
     },
     {

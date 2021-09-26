@@ -15,10 +15,10 @@ Stone is a cool blue theme with hints of teal & gray that is easy on the eyes an
 ![Stone Theme](./screenshots/ss1.png)
 <br/>
 <br/>
-![Stone Theme](./screenshots/ss3.png)
-<br/>
-<br/>
 ![Stone Theme](./screenshots/ss2.png)
+<br/>
+<br/>
+![Stone Theme](./screenshots/ss3.png)
 <br/>
 <br/>
 
