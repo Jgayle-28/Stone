@@ -33,8 +33,8 @@
     "editor.selectionHighlightBackground": "#0000006b",
     "editor.selectionHighlightBorder": "#05668df0",
     "editorBracketMatch.background": "#111827",
-    "editorBracketMatch.border": "#EC407A7f",
-    "editorCursor.foreground": "#EC407A",
+    "editorBracketMatch.border": "#05668d7f",
+    "editorCursor.foreground": "#05668d",
     "editorError.foreground": "#10B98170",
     "editorGroup.border": "#11182730",
     "editorGroupHeader.tabsBackground": "#111827",
@@ -194,7 +194,7 @@
     "terminal.ansiYellow": "#BADA55",
     "terminal.foreground": "#05668d",
     "terminalCursor.background": "#111827",
-    "terminalCursor.foreground": "#EC407A",
+    "terminalCursor.foreground": "#05668d",
     "textLink.activeForeground": "#05668d",
     "textLink.foreground": "#05668d",
     "titleBar.activeBackground": "#111827",
@@ -399,6 +399,17 @@
     {
       "scope": [
         "variable.parameter.js",
+        "variable.parameter.tsx",
+        "meta.parameters.tsx",
+        "meta.arrow.tsx",
+        "meta.block.tsx",
+        "meta.arrow.tsx",
+        "meta.var.expr.tsx",
+        "meta.block.tsx",
+        "meta.arrow.tsx",
+        "meta.var.expr.tsx",
+        "source.tsx",
+        "variable.parameter",
         "variable.parameter.keyframe-list.css"
       ],
       "settings": {
