@@ -93,7 +93,7 @@
     "list.hoverForeground": "#05668d",
     "list.inactiveSelectionBackground": "#11182730",
     "list.inactiveSelectionForeground": "#05668d",
-    "list.warningForeground": "#EC407A",
+    "list.warningForeground": "#AD4171",
     "listFilterWidget.background": "#11182730",
     "listFilterWidget.noMatchesOutline": "#11182730",
     "listFilterWidget.outline": "#11182730",
@@ -403,11 +403,8 @@
         "meta.parameters.tsx",
         "meta.arrow.tsx",
         "meta.block.tsx",
-        "meta.arrow.tsx",
         "meta.var.expr.tsx",
         "meta.block.tsx",
-        "meta.arrow.tsx",
-        "meta.var.expr.tsx",
         "source.tsx",
         "variable.parameter",
         "variable.parameter.keyframe-list.css"
@@ -529,7 +526,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#10B981"
+        "foreground": "#457b9d"
       }
     },
     {
@@ -705,13 +702,13 @@
     {
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#BADA55"
+        "foreground": "#01A8EB"
       }
     },
     {
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#BADA55"
+        "foreground": "#01A8EB"
       }
     },
     {
