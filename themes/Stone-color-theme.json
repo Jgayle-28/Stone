@@ -35,12 +35,12 @@
     "editorBracketMatch.background": "#111827",
     "editorBracketMatch.border": "#05668d7f",
     "editorCursor.foreground": "#05668d",
-    "editorError.foreground": "#10B98170",
+    "editorError.foreground": "#EC407A70",
     "editorGroup.border": "#11182730",
     "editorGroupHeader.tabsBackground": "#111827",
     "editorGroupHeader.tabsBorder": "#05668d50",
     "editorGutter.addedBackground": "#F59E0D60",
-    "editorGutter.deletedBackground": "#10B98160",
+    "editorGutter.deletedBackground": "#EC407A70",
     "editorGutter.modifiedBackground": "#05668d60",
     "editorHoverWidget.background": "#111827",
     "editorHoverWidget.border": "#A3D8F910",
@@ -52,7 +52,7 @@
     "editorLink.activeForeground": "#05668d",
     "editorMarkerNavigation.background": "#05668d05",
     "editorOverviewRuler.border": "#111827",
-    "editorOverviewRuler.errorForeground": "#10B98140",
+    "editorOverviewRuler.errorForeground": "#EC407A70",
     "editorOverviewRuler.findMatchForeground": "#000000",
     "editorOverviewRuler.infoForeground": "#05668d40",
     "editorOverviewRuler.warningForeground": "#EC407A70",
@@ -262,7 +262,7 @@
     {
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#10B981"
+        "foreground": "#EC407A70"
       }
     },
     {
